@@ -10,9 +10,7 @@ Run `npm run start` in backend directory
 frontend runs on Port:3000
 backend runs on Port:8000
 
-
-
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 An array of sample data can be reached on the server with a GET to /data
 
