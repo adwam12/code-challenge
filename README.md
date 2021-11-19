@@ -1,5 +1,19 @@
 # Spring EQ Code Challenge
 
+INSTRCTIONS TO RUN APP:
+
+Run `npm run start` in frontend directory
+
+
+Run `npm run start` in backend directory
+
+frontend runs on Port:3000
+backend runs on Port:8000
+
+
+
+
+
 An array of sample data can be reached on the server with a GET to /data
 
 A business user wants to see a very simple front-end display for all loans that have a specific attribute, or all attributes for one specific loan. If the user gives a single attribute, the front-end should display a list of all loans and their details for any loan that has that attribute. The user should also be able to search through that list by typing specific details into a search box. If the user gives a single loan identifier, all information for just that loan should be displayed.
